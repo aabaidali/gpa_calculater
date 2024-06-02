@@ -75762,7 +75762,7 @@ ZI(){if(this.e.length>1)this.al(new A.a8c(this))},
 qd(){var s=0,r=A.P(t.H),q=this,p,o
 var $async$qd=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:p=t.N
-o=A.PW(null,"feedback@example.com",q.ab8(A.aw(["subject","GPA Calculator Feedback"],p,p)),null,"mailto")
+o=A.PW(null,"aabaid096@gmail.com",q.ab8(A.aw(["subject","GPA Calculator Feedback"],p,p)),null,"mailto")
 s=5
 return A.V(A.agV(o.gm5()),$async$qd)
 case 5:s=b?2:4
